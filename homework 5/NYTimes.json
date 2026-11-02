@@ -1,0 +1,838 @@
+{
+    "status": "OK",
+    "copyright": "Copyright (c) 2025 The New York Times Company. All Rights Reserved.",
+    "response": {
+        "docs": [
+            {
+                "abstract": "The start-up reached a tentative deal with Microsoft, its biggest investor, and said it would give a $100 billion stake to the nonprofit that manages it.",
+                "byline": {
+                    "original": "By Karen Weise and Cade Metz"
+                },
+                "document_type": "article",
+                "headline": {
+                    "main": "OpenAI Takes Big Steps Toward Its Long-Planned Reorganization",
+                    "kicker": "",
+                    "print_headline": "OpenAI Makes Strides Toward Planned Reorganization"
+                },
+                "_id": "nyt://article/d14c88ee-ce58-56ff-b1ca-004cf8f6b74f",
+                "keywords": [
+                    {
+                        "name": "Organization",
+                        "value": "OpenAI Labs",
+                        "rank": 1
+                    },
+                    {
+                        "name": "Organization",
+                        "value": "Microsoft Corp",
+                        "rank": 2
+                    },
+                    {
+                        "name": "Subject",
+                        "value": "Artificial Intelligence",
+                        "rank": 3
+                    },
+                    {
+                        "name": "Subject",
+                        "value": "Nonprofit Organizations",
+                        "rank": 4
+                    },
+                    {
+                        "name": "Subject",
+                        "value": "Start-ups",
+                        "rank": 5
+                    },
+                    {
+                        "name": "Subject",
+                        "value": "Finances",
+                        "rank": 6
+                    },
+                    {
+                        "name": "Subject",
+                        "value": "Corporate Social Responsibility",
+                        "rank": 7
+                    },
+                    {
+                        "name": "Person",
+                        "value": "Altman, Samuel H",
+                        "rank": 8
+                    }
+                ],
+                "multimedia": {
+                    "caption": "OpenAI was founded as a nonprofit company meant to be focused on A.I. safety.",
+                    "credit": "Jason Henry for The New York Times",
+                    "default": {
+                        "url": "https://static01.nyt.com/images/2025/09/11/multimedia/11BIZ-OPENAI-1-qwbf/11BIZ-OPENAI-1-qwbf-articleLarge.jpg",
+                        "height": 400,
+                        "width": 600
+                    },
+                    "thumbnail": {
+                        "url": "https://static01.nyt.com/images/2025/09/11/multimedia/11BIZ-OPENAI-1-qwbf/11BIZ-OPENAI-1-qwbf-thumbStandard.jpg",
+                        "height": 75,
+                        "width": 75
+                    }
+                },
+                "news_desk": "Business",
+                "print_page": "4",
+                "print_section": "B",
+                "pub_date": "2025-09-11T22:45:16Z",
+                "section_name": "Technology",
+                "snippet": "The start-up reached a tentative deal with Microsoft, its biggest investor, and said it would give a $100 billion stake to the nonprofit that manages it.",
+                "source": "The New York Times",
+                "subsection_name": "",
+                "type_of_material": "News",
+                "uri": "nyt://article/d14c88ee-ce58-56ff-b1ca-004cf8f6b74f",
+                "web_url": "https://www.nytimes.com/2025/09/11/technology/openai-microsoft-deal.html",
+                "word_count": 582
+            },
+            {
+                "abstract": "Microsoft’s new “topological qubit” is not based on a solid, liquid or gas. It is another phase of matter that many experts did not think was possible.",
+                "byline": {
+                    "original": "By Cade Metz"
+                },
+                "document_type": "article",
+                "headline": {
+                    "main": "Microsoft Says It Has Created a New State of Matter to Power Quantum Computers",
+                    "kicker": "",
+                    "print_headline": "Something New May Join Solid, Liquid and Gas"
+                },
+                "_id": "nyt://article/50ae51bc-dca8-56e6-bdb7-8cdbf40487fc",
+                "keywords": [
+                    {
+                        "name": "Subject",
+                        "value": "Quantum Computing",
+                        "rank": 1
+                    },
+                    {
+                        "name": "Subject",
+                        "value": "Physics",
+                        "rank": 2
+                    },
+                    {
+                        "name": "Subject",
+                        "value": "Computers and the Internet",
+                        "rank": 3
+                    },
+                    {
+                        "name": "Subject",
+                        "value": "Research",
+                        "rank": 4
+                    },
+                    {
+                        "name": "Subject",
+                        "value": "Superconductors",
+                        "rank": 5
+                    },
+                    {
+                        "name": "Subject",
+                        "value": "Computer Chips",
+                        "rank": 6
+                    },
+                    {
+                        "name": "Subject",
+                        "value": "Innovation",
+                        "rank": 7
+                    },
+                    {
+                        "name": "Organization",
+                        "value": "Microsoft Corp",
+                        "rank": 8
+                    }
+                ],
+                "multimedia": {
+                    "caption": "Dr. Nayak holding Microsoft’s new quantum computing chip.",
+                    "credit": "Grant Hindsley for The New York Times",
+                    "default": {
+                        "url": "https://static01.nyt.com/images/2025/02/17/multimedia/MICROSOFT-QUANTUM-1-01-vlhb/MICROSOFT-QUANTUM-1-01-vlhb-articleLarge.jpg",
+                        "height": 800,
+                        "width": 600
+                    },
+                    "thumbnail": {
+                        "url": "https://static01.nyt.com/images/2025/02/17/multimedia/MICROSOFT-QUANTUM-1-01-vlhb/MICROSOFT-QUANTUM-1-01-vlhb-thumbStandard.jpg",
+                        "height": 75,
+                        "width": 75
+                    }
+                },
+                "news_desk": "Business",
+                "print_page": "1",
+                "print_section": "A",
+                "pub_date": "2025-02-19T16:00:10Z",
+                "section_name": "Technology",
+                "snippet": "Microsoft’s new “topological qubit” is not based on a solid, liquid or gas. It is another phase of matter that many experts did not think was possible.",
+                "source": "The New York Times",
+                "subsection_name": "",
+                "type_of_material": "News",
+                "uri": "nyt://article/50ae51bc-dca8-56e6-bdb7-8cdbf40487fc",
+                "web_url": "https://www.nytimes.com/2025/02/19/technology/microsoft-quantum-computing-topological-qubit.html",
+                "word_count": 1250
+            },
+            {
+                "abstract": "Microsoft, Google and Nvidia are among the American tech companies that have pledged to expand in Britain.",
+                "byline": {
+                    "original": "By Adam Satariano"
+                },
+                "document_type": "article",
+                "headline": {
+                    "main": "Trump’s Visit to Britain Includes Billions in New Tech Deals",
+                    "kicker": "",
+                    "print_headline": ""
+                },
+                "_id": "nyt://article/6cb15702-0f03-5288-9840-2449b97f4226",
+                "keywords": [
+                    {
+                        "name": "Organization",
+                        "value": "Microsoft Corp",
+                        "rank": 1
+                    },
+                    {
+                        "name": "Organization",
+                        "value": "Google Inc",
+                        "rank": 2
+                    },
+                    {
+                        "name": "Subject",
+                        "value": "United States Economy",
+                        "rank": 3
+                    },
+                    {
+                        "name": "Location",
+                        "value": "Great Britain",
+                        "rank": 4
+                    },
+                    {
+                        "name": "Subject",
+                        "value": "Science and Technology",
+                        "rank": 5
+                    },
+                    {
+                        "name": "Organization",
+                        "value": "NVIDIA Corporation",
+                        "rank": 6
+                    },
+                    {
+                        "name": "Subject",
+                        "value": "Artificial Intelligence",
+                        "rank": 7
+                    }
+                ],
+                "multimedia": {
+                    "caption": "London is home to Google’s A.I. research lab DeepMind. ",
+                    "credit": "Benjamin Quinton for The New York Times",
+                    "default": {
+                        "url": "https://static01.nyt.com/images/2025/09/16/multimedia/16trump-news-UK-US-tech-deal-tjql/16trump-news-UK-US-tech-deal-tjql-articleLarge.jpg",
+                        "height": 480,
+                        "width": 600
+                    },
+                    "thumbnail": {
+                        "url": "https://static01.nyt.com/images/2025/09/16/multimedia/16trump-news-UK-US-tech-deal-tjql/16trump-news-UK-US-tech-deal-tjql-thumbStandard.jpg",
+                        "height": 75,
+                        "width": 75
+                    }
+                },
+                "news_desk": "Washington",
+                "print_page": "",
+                "print_section": "",
+                "pub_date": "2025-09-17T09:57:28Z",
+                "section_name": "U.S.",
+                "snippet": "Microsoft, Google and Nvidia are among the American tech companies that have pledged to expand in Britain.",
+                "source": "The New York Times",
+                "subsection_name": "Politics",
+                "type_of_material": "News",
+                "uri": "nyt://article/6cb15702-0f03-5288-9840-2449b97f4226",
+                "web_url": "https://www.nytimes.com/2025/09/17/us/politics/trump-uk-tech-deals.html",
+                "word_count": 321
+            },
+            {
+                "abstract": "The reductions followed cuts of about 6,000 positions last quarter, and were indicative of a tightening job market at big technology companies.",
+                "byline": {
+                    "original": "By Karen Weise"
+                },
+                "document_type": "article",
+                "headline": {
+                    "main": "Microsoft to Lay Off About 9,000 Employees",
+                    "kicker": "",
+                    "print_headline": "Microsoft to Lay Off 9,000 Employees, About 4% of Its Work Force"
+                },
+                "_id": "nyt://article/4546d5bc-46fd-578d-9d71-4aab4990c4c3",
+                "keywords": [
+                    {
+                        "name": "Organization",
+                        "value": "Microsoft Corp",
+                        "rank": 1
+                    },
+                    {
+                        "name": "Subject",
+                        "value": "Layoffs and Job Reductions",
+                        "rank": 2
+                    },
+                    {
+                        "name": "Subject",
+                        "value": "Computers and the Internet",
+                        "rank": 3
+                    },
+                    {
+                        "name": "Subject",
+                        "value": "Artificial Intelligence",
+                        "rank": 4
+                    },
+                    {
+                        "name": "Subject",
+                        "value": "Cloud Computing",
+                        "rank": 5
+                    }
+                ],
+                "multimedia": {
+                    "caption": "Microsoft is laying off roughly 4 percent of its work force, or about 9,000 people, the company said Wednesday.",
+                    "credit": "Jason Redmond/Associated Press",
+                    "default": {
+                        "url": "https://static01.nyt.com/images/2025/07/02/multimedia/BIZ-MICROSOFT-01-qblk/BIZ-MICROSOFT-01-qblk-articleLarge.jpg",
+                        "height": 400,
+                        "width": 600
+                    },
+                    "thumbnail": {
+                        "url": "https://static01.nyt.com/images/2025/07/02/multimedia/BIZ-MICROSOFT-01-qblk/BIZ-MICROSOFT-01-qblk-thumbStandard.jpg",
+                        "height": 75,
+                        "width": 75
+                    }
+                },
+                "news_desk": "Business",
+                "print_page": "4",
+                "print_section": "B",
+                "pub_date": "2025-07-02T16:20:15Z",
+                "section_name": "Technology",
+                "snippet": "The reductions followed cuts of about 6,000 positions last quarter, and were indicative of a tightening job market at big technology companies.",
+                "source": "The New York Times",
+                "subsection_name": "",
+                "type_of_material": "News",
+                "uri": "nyt://article/4546d5bc-46fd-578d-9d71-4aab4990c4c3",
+                "web_url": "https://www.nytimes.com/2025/07/02/technology/microsoft-layoffs-ai.html",
+                "word_count": 496
+            },
+            {
+                "abstract": "Microsoft said it would provide cash, artificial intelligence tools and computing services to schools, colleges and nonprofit groups.",
+                "byline": {
+                    "original": "By Natasha Singer"
+                },
+                "document_type": "article",
+                "headline": {
+                    "main": "Microsoft Pledges $4 Billion Toward A.I. Education",
+                    "kicker": "",
+                    "print_headline": "Microsoft Plans Over $4 Billion For Educating Millions in A.I."
+                },
+                "_id": "nyt://article/833fa7af-06ce-54a1-b3f2-dfc821c15aed",
+                "keywords": [
+                    {
+                        "name": "Subject",
+                        "value": "Computers and the Internet",
+                        "rank": 1
+                    },
+                    {
+                        "name": "Subject",
+                        "value": "Artificial Intelligence",
+                        "rank": 2
+                    },
+                    {
+                        "name": "Subject",
+                        "value": "Philanthropy",
+                        "rank": 3
+                    },
+                    {
+                        "name": "Subject",
+                        "value": "Education (K-12)",
+                        "rank": 4
+                    },
+                    {
+                        "name": "Subject",
+                        "value": "Teachers and School Employees",
+                        "rank": 5
+                    },
+                    {
+                        "name": "Organization",
+                        "value": "Microsoft Corp",
+                        "rank": 6
+                    },
+                    {
+                        "name": "Person",
+                        "value": "Smith, Bradford L",
+                        "rank": 7
+                    }
+                ],
+                "multimedia": {
+                    "caption": "Microsoft helped lead an artificial intelligence training workshop, featuring the company’s Copilot chatbot, for teachers in Manhattan on Monday.",
+                    "credit": "Ahmed Gaber for The New York Times",
+                    "default": {
+                        "url": "https://static01.nyt.com/images/2025/07/09/business/09biz-Microsoft-AI/09biz-Microsoft-AI-articleLarge.jpg",
+                        "height": 338,
+                        "width": 600
+                    },
+                    "thumbnail": {
+                        "url": "https://static01.nyt.com/images/2025/07/09/business/09biz-Microsoft-AI/09biz-Microsoft-AI-thumbStandard.jpg",
+                        "height": 75,
+                        "width": 75
+                    }
+                },
+                "news_desk": "Business",
+                "print_page": "5",
+                "print_section": "B",
+                "pub_date": "2025-07-09T16:29:06Z",
+                "section_name": "Business",
+                "snippet": "Microsoft said it would provide cash, artificial intelligence tools and computing services to schools, colleges and nonprofit groups.",
+                "source": "The New York Times",
+                "subsection_name": "",
+                "type_of_material": "News",
+                "uri": "nyt://article/833fa7af-06ce-54a1-b3f2-dfc821c15aed",
+                "web_url": "https://www.nytimes.com/2025/07/09/business/microsoft-ai-education.html",
+                "word_count": 440
+            },
+            {
+                "abstract": "The company’s results are likely to ease investors’ worries that big investments in artificial intelligence aren’t paying off.",
+                "byline": {
+                    "original": "By Karen Weise"
+                },
+                "document_type": "article",
+                "headline": {
+                    "main": "Microsoft Backs Up A.I. Spending With $27.2 Billion Quarterly Profit",
+                    "kicker": "",
+                    "print_headline": "Building Data Centers Pays Off for Microsoft"
+                },
+                "_id": "nyt://article/9b906c4e-e22c-5580-819b-ce6dc1227c81",
+                "keywords": [
+                    {
+                        "name": "Organization",
+                        "value": "Microsoft Corp",
+                        "rank": 1
+                    },
+                    {
+                        "name": "Subject",
+                        "value": "Company Reports",
+                        "rank": 2
+                    },
+                    {
+                        "name": "Subject",
+                        "value": "Artificial Intelligence",
+                        "rank": 3
+                    },
+                    {
+                        "name": "Subject",
+                        "value": "Data Centers",
+                        "rank": 4
+                    },
+                    {
+                        "name": "Subject",
+                        "value": "Computers and the Internet",
+                        "rank": 5
+                    },
+                    {
+                        "name": "Subject",
+                        "value": "Cloud Computing",
+                        "rank": 6
+                    },
+                    {
+                        "name": "Person",
+                        "value": "Nadella, Satya",
+                        "rank": 7
+                    }
+                ],
+                "multimedia": {
+                    "caption": "Microsoft has invested heavily for its work on artificial intelligence.",
+                    "credit": "Jackie Molloy for The New York Times",
+                    "default": {
+                        "url": "https://static01.nyt.com/images/2025/07/30/multimedia/30biz-microsoft-earningsHFO-bphv/30biz-microsoft-earningsHFO-bphv-articleLarge.jpg",
+                        "height": 400,
+                        "width": 600
+                    },
+                    "thumbnail": {
+                        "url": "https://static01.nyt.com/images/2025/07/30/multimedia/30biz-microsoft-earningsHFO-bphv/30biz-microsoft-earningsHFO-bphv-thumbStandard.jpg",
+                        "height": 75,
+                        "width": 75
+                    }
+                },
+                "news_desk": "Business",
+                "print_page": "3",
+                "print_section": "B",
+                "pub_date": "2025-07-30T20:28:08Z",
+                "section_name": "Technology",
+                "snippet": "The company’s results are likely to ease investors’ worries that big investments in artificial intelligence aren’t paying off.",
+                "source": "The New York Times",
+                "subsection_name": "",
+                "type_of_material": "News",
+                "uri": "nyt://article/9b906c4e-e22c-5580-819b-ce6dc1227c81",
+                "web_url": "https://www.nytimes.com/2025/07/30/technology/microsoft-earnings-ai-data-centers.html",
+                "word_count": 639
+            },
+            {
+                "abstract": "The company said state-backed hacking groups were breaching systems through flaws in SharePoint, which is used by the U.S. government and companies around the world.",
+                "byline": {
+                    "original": "By Vivian Wang"
+                },
+                "document_type": "article",
+                "headline": {
+                    "main": "Chinese Hackers Are Exploiting Flaws in Widely Used Software, Microsoft Says",
+                    "kicker": "",
+                    "print_headline": "Chinese Hackers Are Exploiting Flaws in Popular Software, Microsoft Says"
+                },
+                "_id": "nyt://article/1e86c920-ed79-570f-8f79-c86185e41e8c",
+                "keywords": [
+                    {
+                        "name": "Location",
+                        "value": "China",
+                        "rank": 1
+                    },
+                    {
+                        "name": "Subject",
+                        "value": "Computer Security",
+                        "rank": 2
+                    },
+                    {
+                        "name": "Subject",
+                        "value": "Computers and the Internet",
+                        "rank": 3
+                    },
+                    {
+                        "name": "Subject",
+                        "value": "Cyberwarfare and Defense",
+                        "rank": 4
+                    },
+                    {
+                        "name": "Subject",
+                        "value": "Cyberattacks and Hackers",
+                        "rank": 5
+                    },
+                    {
+                        "name": "Organization",
+                        "value": "Cybersecurity and Infrastructure Security Agency",
+                        "rank": 6
+                    },
+                    {
+                        "name": "Organization",
+                        "value": "Defense Department",
+                        "rank": 7
+                    },
+                    {
+                        "name": "Organization",
+                        "value": "Microsoft Corp",
+                        "rank": 8
+                    },
+                    {
+                        "name": "Subject",
+                        "value": "Software",
+                        "rank": 9
+                    },
+                    {
+                        "name": "Subject",
+                        "value": "United States International Relations",
+                        "rank": 10
+                    }
+                ],
+                "multimedia": {
+                    "caption": "A Microsoft office in Beijing. The company said groups linked to the Chinese government had been taking advantage of security flaws in its SharePoint software. ",
+                    "credit": "Tingshu Wang/Reuters",
+                    "default": {
+                        "url": "https://static01.nyt.com/images/2025/07/23/multimedia/23int-china-microsoft-hack-hjkf/23int-china-microsoft-hack-hjkf-articleLarge.jpg",
+                        "height": 400,
+                        "width": 600
+                    },
+                    "thumbnail": {
+                        "url": "https://static01.nyt.com/images/2025/07/23/multimedia/23int-china-microsoft-hack-hjkf/23int-china-microsoft-hack-hjkf-thumbStandard.jpg",
+                        "height": 75,
+                        "width": 75
+                    }
+                },
+                "news_desk": "Foreign",
+                "print_page": "9",
+                "print_section": "A",
+                "pub_date": "2025-07-23T05:55:31Z",
+                "section_name": "World",
+                "snippet": "The company said state-backed hacking groups were breaching systems through flaws in SharePoint, which is used by the U.S. government and companies around the world.",
+                "source": "The New York Times",
+                "subsection_name": "Asia Pacific",
+                "type_of_material": "News",
+                "uri": "nyt://article/1e86c920-ed79-570f-8f79-c86185e41e8c",
+                "web_url": "https://www.nytimes.com/2025/07/23/world/asia/chinese-hackers-microsoft-sharepoint.html",
+                "word_count": 849
+            },
+            {
+                "abstract": "The agreement includes across-the-board wage increases of 13.5 percent.",
+                "byline": {
+                    "original": "By Karen Weise"
+                },
+                "document_type": "article",
+                "headline": {
+                    "main": "Video Game Union Reaches Deal on Industry-First Contract at Microsoft",
+                    "kicker": "",
+                    "print_headline": "Gaming Union Reaches a Deal With Microsoft, Scoring a First"
+                },
+                "_id": "nyt://article/db599adf-2295-5a05-adc3-3fb2544a7781",
+                "keywords": [
+                    {
+                        "name": "Subject",
+                        "value": "Organized Labor",
+                        "rank": 1
+                    },
+                    {
+                        "name": "Subject",
+                        "value": "Wages and Salaries",
+                        "rank": 2
+                    },
+                    {
+                        "name": "Subject",
+                        "value": "Computer and Video Games",
+                        "rank": 3
+                    },
+                    {
+                        "name": "Subject",
+                        "value": "Computers and the Internet",
+                        "rank": 4
+                    },
+                    {
+                        "name": "Subject",
+                        "value": "Labor and Jobs",
+                        "rank": 5
+                    },
+                    {
+                        "name": "Organization",
+                        "value": "Microsoft Corp",
+                        "rank": 6
+                    },
+                    {
+                        "name": "Organization",
+                        "value": "Communications Workers of America",
+                        "rank": 7
+                    },
+                    {
+                        "name": "Organization",
+                        "value": "Activision Blizzard Inc",
+                        "rank": 8
+                    }
+                ],
+                "multimedia": {
+                    "caption": "Signage at the Microsoft 50th Anniversary party in April. The tentative agreement between the union and Microsoft enshrines a novel provision on the use of artificial intelligence.",
+                    "credit": "Chona Kasinger for The New York Times",
+                    "default": {
+                        "url": "https://static01.nyt.com/images/2025/05/30/multimedia/30biz-gaming-union-wfch/30biz-gaming-union-wfch-articleLarge.jpg",
+                        "height": 400,
+                        "width": 600
+                    },
+                    "thumbnail": {
+                        "url": "https://static01.nyt.com/images/2025/05/30/multimedia/30biz-gaming-union-wfch/30biz-gaming-union-wfch-thumbStandard.jpg",
+                        "height": 75,
+                        "width": 75
+                    }
+                },
+                "news_desk": "Business",
+                "print_page": "3",
+                "print_section": "B",
+                "pub_date": "2025-05-30T18:18:32Z",
+                "section_name": "Business",
+                "snippet": "The agreement includes across-the-board wage increases of 13.5 percent.",
+                "source": "The New York Times",
+                "subsection_name": "",
+                "type_of_material": "News",
+                "uri": "nyt://article/db599adf-2295-5a05-adc3-3fb2544a7781",
+                "web_url": "https://www.nytimes.com/2025/05/30/business/microsoft-video-game-union.html",
+                "word_count": 448
+            },
+            {
+                "abstract": "The tech giant’s revenue also grew 13%, topping Wall Street’s expectations.",
+                "byline": {
+                    "original": "By Karen Weise"
+                },
+                "document_type": "article",
+                "headline": {
+                    "main": "Microsoft Moderates A.I. Spending as Profit Increases 18%",
+                    "kicker": "",
+                    "print_headline": "Microsoft’s A.I. Spending  Slows as Profit Grows 18%"
+                },
+                "_id": "nyt://article/afbfcd22-69b2-5a00-8296-c88d08dd1063",
+                "keywords": [
+                    {
+                        "name": "Organization",
+                        "value": "Microsoft Corp",
+                        "rank": 1
+                    },
+                    {
+                        "name": "Subject",
+                        "value": "Artificial Intelligence",
+                        "rank": 2
+                    },
+                    {
+                        "name": "Organization",
+                        "value": "OpenAI Labs",
+                        "rank": 3
+                    },
+                    {
+                        "name": "Subject",
+                        "value": "Software",
+                        "rank": 4
+                    },
+                    {
+                        "name": "Subject",
+                        "value": "Computers and the Internet",
+                        "rank": 5
+                    },
+                    {
+                        "name": "Subject",
+                        "value": "Cloud Computing",
+                        "rank": 6
+                    },
+                    {
+                        "name": "Subject",
+                        "value": "Company Reports",
+                        "rank": 7
+                    },
+                    {
+                        "name": "Subject",
+                        "value": "Data Centers",
+                        "rank": 8
+                    },
+                    {
+                        "name": "Subject",
+                        "value": "Infrastructure (Public Works)",
+                        "rank": 9
+                    }
+                ],
+                "multimedia": {
+                    "caption": "Microsoft celebrated the company’s 50th anniversary earlier this month.",
+                    "credit": "Chona Kasinger for The New York Times",
+                    "default": {
+                        "url": "https://static01.nyt.com/images/2025/04/30/multimedia/30Biz-Microsoft-earnings-lptf/30Biz-Microsoft-earnings-lptf-articleLarge.jpg",
+                        "height": 400,
+                        "width": 600
+                    },
+                    "thumbnail": {
+                        "url": "https://static01.nyt.com/images/2025/04/30/multimedia/30Biz-Microsoft-earnings-lptf/30Biz-Microsoft-earnings-lptf-thumbStandard.jpg",
+                        "height": 75,
+                        "width": 75
+                    }
+                },
+                "news_desk": "Business",
+                "print_page": "3",
+                "print_section": "B",
+                "pub_date": "2025-04-30T20:43:46Z",
+                "section_name": "Technology",
+                "snippet": "The tech giant’s revenue also grew 13%, topping Wall Street’s expectations.",
+                "source": "The New York Times",
+                "subsection_name": "",
+                "type_of_material": "News",
+                "uri": "nyt://article/afbfcd22-69b2-5a00-8296-c88d08dd1063",
+                "web_url": "https://www.nytimes.com/2025/04/30/technology/microsoft-earnings-ai-spending.html",
+                "word_count": 650
+            },
+            {
+                "abstract": "The American Federation of Teachers said it would use the $23 million, including $500,000 from the A.I. start-up Anthropic, to create a national training center.",
+                "byline": {
+                    "original": "By Natasha Singer"
+                },
+                "document_type": "article",
+                "headline": {
+                    "main": "OpenAI and Microsoft Bankroll New A.I. Training for Teachers",
+                    "kicker": "",
+                    "print_headline": "OpenAI and Microsoft Fund A.I. Training for Teachers"
+                },
+                "_id": "nyt://article/04eb393a-fe23-5265-9d9b-60b9fa6740e8",
+                "keywords": [
+                    {
+                        "name": "Subject",
+                        "value": "Education (K-12)",
+                        "rank": 1
+                    },
+                    {
+                        "name": "Subject",
+                        "value": "Artificial Intelligence",
+                        "rank": 2
+                    },
+                    {
+                        "name": "Subject",
+                        "value": "Teachers and School Employees",
+                        "rank": 3
+                    },
+                    {
+                        "name": "Organization",
+                        "value": "OpenAI Labs",
+                        "rank": 4
+                    },
+                    {
+                        "name": "Organization",
+                        "value": "Microsoft Corp",
+                        "rank": 5
+                    },
+                    {
+                        "name": "Subject",
+                        "value": "ChatGPT",
+                        "rank": 6
+                    },
+                    {
+                        "name": "Person",
+                        "value": "Altman, Samuel H",
+                        "rank": 7
+                    },
+                    {
+                        "name": "Person",
+                        "value": "Weingarten, Randi",
+                        "rank": 8
+                    },
+                    {
+                        "name": "Organization",
+                        "value": "American Federation of Teachers",
+                        "rank": 9
+                    },
+                    {
+                        "name": "Organization",
+                        "value": "United Federation of Teachers",
+                        "rank": 10
+                    },
+                    {
+                        "name": "Person",
+                        "value": "Smith, Brad (Entrepreneur)",
+                        "rank": 11
+                    },
+                    {
+                        "name": "Organization",
+                        "value": "Anthropic AI LLC",
+                        "rank": 12
+                    },
+                    {
+                        "name": "Subject",
+                        "value": "Computers and the Internet",
+                        "rank": 13
+                    },
+                    {
+                        "name": "Location",
+                        "value": "New York City",
+                        "rank": 14
+                    }
+                ],
+                "multimedia": {
+                    "caption": "",
+                    "credit": "",
+                    "default": {
+                        "url": "https://static01.nyt.com/images/2025/07/07/07visualUploader-87354-cover/07visualUploader-87354-cover-articleLarge.jpg",
+                        "height": 338,
+                        "width": 600
+                    },
+                    "thumbnail": {
+                        "url": "https://static01.nyt.com/images/2025/07/07/07visualUploader-87354-cover/07visualUploader-87354-cover-thumbStandard.jpg",
+                        "height": 75,
+                        "width": 75
+                    }
+                },
+                "news_desk": "Business",
+                "print_page": "4",
+                "print_section": "B",
+                "pub_date": "2025-07-08T09:00:08Z",
+                "section_name": "Technology",
+                "snippet": "The American Federation of Teachers said it would use the $23 million, including $500,000 from the A.I. start-up Anthropic, to create a national training center.",
+                "source": "The New York Times",
+                "subsection_name": "",
+                "type_of_material": "News",
+                "uri": "nyt://article/04eb393a-fe23-5265-9d9b-60b9fa6740e8",
+                "web_url": "https://www.nytimes.com/2025/07/08/technology/chatgpt-teachers-openai-microsoft.html",
+                "word_count": 1027
+            }
+        ],
+        "metadata": {
+            "hits": 10000,
+            "offset": 0,
+            "time": 352
+        }
+    }
+}

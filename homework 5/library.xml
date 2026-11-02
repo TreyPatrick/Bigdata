@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<library>
+	<album>
+		<albumid>A2 1325</albumid>
+		<albumlabel>Atlantic</albumlabel>
+		<albumtitle>Pyramid</albumtitle>
+		<albumyear>1960</albumyear>
+		<track>
+			<trknum>1</trknum>
+			<trktitle>Vendome</trktitle>
+			<trklen>01:02:30</trklen>
+		</track>
+		<track>
+			<trknum>2</trknum>
+			<trktitle>Pyramid</trktitle>
+			<trklen>00:10:46</trklen>
+		</track>
+	</album>
+	<album>
+		<albumid>D136705</albumid>
+		<albumlabel>Verve</albumlabel>
+		<albumtitle>Ella Fitzgerald</albumtitle>
+		<albumyear>2000</albumyear>
+		<track>
+			<trknum>1</trknum>
+			<trktitle>A tisket, a tasket</trktitle>
+			<trklen>00:02:37</trklen>
+		</track>
+		<track>
+			<trknum>2</trknum>
+			<trktitle>Vote for Mr. Rhythm</trktitle>
+			<trklen>00:02:25</trklen>
+		</track>
+		<track>
+			<trknum>3</trknum>
+			<trktitle>Betcha nickel</trktitle>
+			<trklen>00:02:52</trklen>
+		</track>
+	</album>
+</library>
+
+
